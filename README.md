@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Senior Web Developer <br>🎶 Music Addict <br>💡 Problem Solver <br>🚀 Always Learning <br>🔧 Building with Angular & DevExtreme<br>
+👨‍💻 Senior Web Developer at Renazent IT Pvt Ltd <br>🎶 Music Addict <br>💡 Problem Solver <br>🚀 Always Learning <br>🔧 Building with Angular & DevExtreme<br>
 
 
 ## 🌐 Socials:
